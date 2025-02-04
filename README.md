@@ -35,3 +35,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=msafiri-abeid&show_icons=true&locale=en" alt="msafiri-abeid" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=msafiri-abeid&" alt="msafiri-abeid" /></p>
+
+<img src="https://raw.githubusercontent.com/msafiri-abeid/msafiri-abeid/output/snake.svg" alt="Snake animation" />
+
