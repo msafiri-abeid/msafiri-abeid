@@ -1,20 +1,20 @@
-<h1 align="center">Hi 👋, I'm Msafiri Abeid</h1>
-<h3 align="center">A passionate web developer from Tanzania</h3>
+<h1 align="center">Hi 👋, I'm MSAFIRI ABEID</h1>
+<h3 align="center">A passionate Web Developer from Tanzania</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif" >
 
 <p align="left"> <a href="https://twitter.com/msafiri_x" target="blank"><img src="https://img.shields.io/twitter/follow/msafiri_x?logo=twitter&style=for-the-badge" alt="msafiri_x" /></a> </p>
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available at [https://msafiri-abeid.github.io/my-portifolio/](https://msafiri-abeid.github.io/my-portifolio/)
 
-- 💬 Ask me about **react and python**
+- 💬 Ask me about **react and node**
 
 - 📫 How to reach me **msafirisb@gmail.com**
 
 - 📄 Know about my experiences [https://bit.ly/42DxiMf](https://bit.ly/42DxiMf)
 
-- ⚡ Fun fact **I am amazed at how a single missing semicolon can ruin my entire day.**
+- ⚡ Fun fact **AI makes the whole coding process more complex when you don't master the language you are coding with..**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
